@@ -16,23 +16,23 @@
 - Add foreign keys referencing the student and assignment tables
 # Queries
 - Student Table
- <img src="Image/.PNG" alt="Alt Text" Width="700">
+ <img src="Image/Student Table Q.PNG" alt="Alt Text" Width="500">
 
 - Assignment Table
- <img src="Image/.PNG" alt="Alt Text" Width="700">
+ <img src="Image/Assignment Q.PNG" alt="Alt Text" Width="500">
 
 - Submission Table
- <img src="Image/.PNG" alt="Alt Text" Width="700">
+ <img src="Image/Submission Q.PNG" alt="Alt Text" Width="500">
 
 # Table Structure
 - Student Table Structure
-<img src="Image/.PNG" alt="Alt Text" Width="700">
+<img src="Image/Student Table S.PNG" alt="Alt Text" Width="700">
 
 - Assignment Table Structure
-<img src="Image/.PNG" alt="Alt Text" Width="700">
+<img src="Image/Assignment S.PNG" alt="Alt Text" Width="700">
 
 - Submission Table Structure
-<img src="Image/.PNG" alt="Alt Text" Width="700">
+<img src="Image/Submission S.PNG" alt="Alt Text" Width="700">
 
 # RELATIONAL SCHEMA
-<img src="Image/.PNG" alt="Alt Text" Width="700">
+<img src="Image/ERD.PNG" alt="Alt Text" Width="700">
